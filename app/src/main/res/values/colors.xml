@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Màu của header tên ứng dụng
+    <color name="colorPrimary">#3A9F6A</color>
+    //
+    <color name="colorPrimaryDark">#FFC107</color>
+    //Màu gạch chân của chữ trong ediText và màu của RadioButton, CheckBox
+    <color name="colorAccent">#CC1212</color>
+</resources>
